@@ -71,7 +71,7 @@ Give a ⭐️ if this project helped you!
 
 You can view the live demo of the calculator by clicking the link below:
 
-<a href="https://daneshcode.github.io/course-platform/" target="_blank">🔗 Open the Calculator</a>
+<a href="https://daneshcode.github.io/course-platform/" target="_blank">🔗 Open the course-platform</a>
 
 ## 📞 Contact
 
